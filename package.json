@@ -1,6 +1,6 @@
 {
-  "name": "robofriendsReact",
-  "homepage": "https://lukacbt.github.io/robofriends",
+  "name": "robofriends",
+  "homepage": "https://lukacbt.github.io/robofriendsReact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
